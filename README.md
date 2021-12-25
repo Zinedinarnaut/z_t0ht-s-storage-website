@@ -18,3 +18,11 @@ api runs on port 4001
 website runs on port 3000 which you can change
 
 Note: this will only work for pc as it's a Draggable file/folder manager but I'll add a button for phone users.
+
+
+# Changelog
+
+```
+Fixed files and folders not getting past backend 
+File Manager works fine now
+```
