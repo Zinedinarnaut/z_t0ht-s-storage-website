@@ -12,7 +12,7 @@ npm i or npm install
 npm start
 ```
 
-Everything runs on node v12
+Everything runs on node v17 
 
 api runs on port 4001
 website runs on port 3000 which you can change
@@ -23,6 +23,5 @@ Note: this will only work for pc as it's a Draggable file/folder manager but I'l
 # Changelog
 
 ```
-Fixed files and folders not getting past backend 
-File Manager works fine now
+For files and folders go to the api and make a uploads folder then it should work.
 ```
