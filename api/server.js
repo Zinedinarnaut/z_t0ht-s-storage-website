@@ -52,7 +52,7 @@ app.use(session({
 // =============================================================================================
 
 createClient({
-    url: 'redis://dono-01.danbot.host:1276?db=Astrofile password=P@55w0rd'
+    url: ''
 });
 
 redisClient.on('error', function (err) {
